@@ -16,5 +16,4 @@ namespace curves {
     };
 }
 
-
 #endif //CAD_EXCHANGER_CURVE_H
